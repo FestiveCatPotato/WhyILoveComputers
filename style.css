@@ -12,3 +12,6 @@ h1 {
 h2 {
   text-shadow: 2px 2px black;
 }
+a {
+  text-size: 15px;
+}
