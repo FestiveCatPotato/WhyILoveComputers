@@ -1,6 +1,5 @@
 body {
   background: gray;
-  color: rgb(255,200,0);
   text-shadow: 2px 2px black;
   background-image: url(Powershell.PNG);
   font-family: monospace;
@@ -14,4 +13,10 @@ h10 {
 color: white;
 float: right;
 font-size: 10px
+}
+h2 {
+color: rgb(255,200,0);
+}
+h1 {
+color: rgb(255,200,0); 
 }
