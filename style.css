@@ -3,20 +3,15 @@ body {
   text-shadow: 2px 2px black;
   background-image: url(Powershell.PNG);
   font-family: monospace;
+  color: rgb(255,200,0);
 }
 a {
   color: rebeccapurple;
   font-size: 20px;
   font-style: oblique;
 }
-h10 {
+h6 {
 color: white;
 float: right;
 font-size: 10px
-}
-h2 {
-color: rgb(255,200,0);
-}
-h1 {
-color: rgb(255,200,0); 
 }
