@@ -12,6 +12,9 @@ a {
 }
 h6 {
 color: white;
-float: right;
+float: left;
 font-size: 10px
+}
+img {
+float: left;
 }
